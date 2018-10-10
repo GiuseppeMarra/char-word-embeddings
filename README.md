@@ -24,3 +24,7 @@ The user willing to have a custom configuration should modify the `Config` confi
 We will provide a more user-friendly command-line interface as soon as possible, together with more details about the training procedure and how to incorporate the model inside bigger models.
 
 To see a fast way to exploit already trained embeddings look at the `SentenceEncoder` class together with the `test` function.
+
+
+This code has been tested with `tensorflow==1.4` and `python2.7`. Moreover, it has a dependency with the python library `nltk`
+.
