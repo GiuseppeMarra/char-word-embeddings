@@ -15,7 +15,7 @@ The structure of the project contains:
 For a standard learning procedure do the following.
 * Be sure both `data` and `log` folder are present.
 * Put your training data into the `data` folder, with files named as `data(something).txt`, e.g. `data01.txt`.
-* Simply running `char2word.py`
+* Simply run `char2word.py`
 
 The script will create a `vocabulary.txt` file inside the `data` folder to be used during training.
 All the configurations are set to the default ones (i.e. the paper ones). The script does not yet provide a command-line configurations (apart for folder configuration, run `--help`for info).
