@@ -1,0 +1,8 @@
+**/embeddings_log
+**/.idea
+**/.DS_STORE
+**/savings
+**/backups
+*.pyc
+**/__pycache__
+**/datasets
